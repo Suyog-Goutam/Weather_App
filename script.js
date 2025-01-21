@@ -111,6 +111,6 @@ function getWeatherIcon(iconCode) {
 }
 
 window.addEventListener("load", function () {
-  const assignedCity = "Bracknell Forest";
+  const assignedCity = "Kathmandu";
   getWeatherData(assignedCity);
 });
